@@ -1,7 +1,7 @@
 # **ReactiveChainDB-V1**
 
 [![Setup Guide](https://img.shields.io/badge/📘-Setup_Guide-blue)](#reactivechaindb--full-kubernetes--docker-setup-guide)
-[![License](https://img. shields.io/badge/📜-License-orange)](LICENSE. md)
+![License](https://img.shields.io/badge/License-Proprietary_Freeware-orange)
 
 Modern distributed systems require increasingly secure, low-latency, and high-throughput transaction handling—particularly in healthcare, finance, and real-time scheduling.   
 Conventional blockchain architectures often lack the performance efficiency needed for such reactive environments. 
