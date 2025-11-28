@@ -117,32 +117,19 @@ kubectl get nodes
 
 ---
 
-## 2.  Build & Push Docker Images
+## 2.  Pull Docker Images (Optional) for custom deployments
+### skip the step (if continue for kubernetes deployment)
 
-### Clone the Project
 
-```bash
-git clone https://github. com/namanONcode/ReactiveChainDB-V1.git
-cd ReactiveChainDB-V1
 ```
 
-### Build BigchainDB Image
+### Pull Images from Docker Hub
 
-```bash
-docker build -t namanoncode/bigchaindb:latest ./bigchaindb
-```
 
-### Build ReactiveChainDB API Image
-
-```bash
-docker build -t namanoncode/reactivechaindbv1:latest ./reactivechaindb
-```
-
-### Push Images to Docker Hub
-
-```bash
-docker push namanoncode/bigchaindb:latest
-docker push namanoncode/reactivechaindbv1:latest
+docker pull namanoncode/bigchaindb:latest
+docker pull namanoncode/reactivechaindbv1:latest
+docker pull tendermint/tendermint:v0.31.5
+docker pull redis:7
 ```
 
 ---
