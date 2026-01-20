@@ -323,6 +323,6 @@ This software is provided free of charge for personal, educational, or commercia
 - ❌ No redistribution for a fee
 - ✅ Must be used in its original, unmodified form
 
-**© 2025 Naman Jain** — All rights reserved. 
+**© 2026 Naman Jain** — All rights reserved. 
 
 See the full [LICENSE](LICENSE. md) for complete terms. 
